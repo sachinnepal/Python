@@ -20,7 +20,7 @@ elif operator == "/":
         result = num1 / num2
         print(f"Result: {result}")
     else:
-        print("Error: Cannot divide by zero")
+        print("Error: Cannot divide by zeroo")
 
 else:
     print("Operator not detected")
