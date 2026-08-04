@@ -18,7 +18,6 @@
 #     print(kwargs)
 
 # student(name="Sachin", age=21, country="Nepal")
-
 def demo(*args, **kwargs):
     print("Args:", args)
     print("Kwargs:", kwargs)

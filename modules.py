@@ -1,4 +1,9 @@
 from function import ADD,SUB,DIV,MUL
+import random
+
+
+id = random.randint(1000,9999)
+print(f"Your USER ID is: {id}")
 
 MENU = """
 
