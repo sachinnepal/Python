@@ -13,3 +13,7 @@ file=open("file handling/file.txt","r+")
 data=file.read()
 print(f"Data From file is :\n{data}")
 file.close()
+
+with open ("file handling/file.txt","r+") as file:
+    data=file.read()
+    print(f"Data From file is :\n{data}")
